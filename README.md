@@ -100,3 +100,5 @@ If you find a bug or have a question, please [open an issue](../../issues).
 ## License
 
 [MIT](LICENSE)
+
+Hello GitHub PR Bot!
